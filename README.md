@@ -16,4 +16,4 @@ DBpedia98K consists of 98,022 entities, 294 relations, 596,797 triples and 91 en
   author={Jing Zhou, Yuzhang Liu, Peng Wang},  
   year={2020},  
 }  
-'''
+```
