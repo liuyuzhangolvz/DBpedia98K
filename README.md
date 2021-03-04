@@ -1,6 +1,6 @@
 # DBpedia98K
-DBpedia98K 是我们通过以下步骤构建的数据集：
-(1) 从 DBpedia 中随机抽取若干关系三元组（非属性三元组）；
-(2) 针对步骤 (1) 中抽取出的关系，在 DBpedia 中通过 rdfs: domain 和 rdfs: range 域收集关系对于头尾实体的类型的
-限制；
-(3) 将步骤(1)中抽取到的三元组集合划分为训练集、验证集及测试集。
+
+DBpedia98K consisting of 98,022 entities, 294 relations and 596,797 triples is a novel dataset we built by the following steps:  
+(1) Randomly select some relational triples from DBpedia.   
+(2) Collect the entity types through the $rdfs:domain$ and $rdfs:range$ domains of relations contained in the triples selected.   
+(3) Split the selected triples into training set, valid set and test set.
