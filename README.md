@@ -1,6 +1,6 @@
 # DBpedia98K
 
-DBpedia98K consisting of 98,022 entities, 294 relations and 596,797 triples is built by the following steps:  
+DBpedia98K consists of 98,022 entities, 294 relations, 596,797 triples and 91 entity types. It was built by the following steps:  
 </br>
 (1) Randomly select some relational triples from DBpedia.   
 </br>
