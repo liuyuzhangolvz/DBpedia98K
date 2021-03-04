@@ -9,3 +9,14 @@ DBpedia98K consists of 98,022 entities, 294 relations, 596,797 triples and 91 en
 (3) Split the selected triples into training set, valid set and test set.
 </br>
 
+## Citation
+```
+@misc{
+  DBpedia98K,
+  title={DBpedia98K},
+  author={Jing Zhou, Yuzhang Liu, Peng Wang},
+  year={2020},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/liuyuzhangolvz/DBpedia98K}},
+}
+```
