@@ -9,13 +9,11 @@ DBpedia98K consists of 98,022 entities, 294 relations, 596,797 triples and 91 en
 (3) Split the selected triples into training set, valid set and test set.
 </br>
 ## Citation
-'''
-
+```
 @misc{  
   TransET,  
   title={TransET: Knowledge Graph Embedding with Entity Types},  
   author={Jing Zhou, Yuzhang Liu, Peng Wang},  
   year={2020},  
 }  
-
 '''
